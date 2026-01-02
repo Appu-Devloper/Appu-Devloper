@@ -1,113 +1,194 @@
 <h1 align="center">Hi 👋, I'm Appu M</h1>
-<h3 align="center">🚀 Software Development Engineer | Flutter & Python Enthusiast | IoT & Backend Developer</h3>
+<h3 align="center">🚀 Senior Application Engineer | Flutter Developer | Backend & IoT Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=appu-devloper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Appu-Devloper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🚀 About Me
-🔹 Results-driven **Software Development Engineer** with **2+ years** of experience.  
-🔹 Specializing in **Flutter, Dart, Python, SQL optimization, IoT integration, and real-time data visualization**.  
-🔹 Passionate about **designing scalable software solutions and user-centric applications**.  
-🔹 Recently promoted to **Software Development Engineer at Herin Electronics** 🎉.  
+---
+
+## 👨‍💻 About Me
+
+Results-driven **Senior Application Engineer** with **~3 years of hands-on experience** delivering **production-grade mobile apps, scalable backend systems, and real-time IoT dashboards**.
+
+I specialize in **Flutter, Python, SQL, REST APIs, and WebSocket-based real-time systems**, with a strong focus on **performance, reliability, and clean architecture**. I’ve built and shipped multiple systems in production, optimized backend workflows, and replaced inefficient polling architectures with real-time communication.
+
+📍 India  
+📧 **Email:** [appua0126@gmail.com](mailto:appua0126@gmail.com)  
+📱 **Phone:** +91 88613 57375  
 
 ---
 
-## 🌟 What I'm Working On:
-- 🔭 **Currently Developing:** [Quizify AI – Your Ultimate Learning Companion!](https://github.com/Appu-Devloper/UPSC_ASPIRANT.git) 🚀  
-- 🌱 **Currently Learning:** Advanced **Flutter, Python, SQL** concepts.  
-- 👯 **Looking to Collaborate:** On **Flutter Development & Backend Optimization**.  
+## 🧠 Professional Summary
+
+- 🚀 Built and maintained **production mobile apps** (Android & iOS)
+- ⚡ Designed **real-time IoT dashboards** using **WebSockets**
+- 📉 Reduced latency & server load by replacing polling mechanisms
+- 🏗️ Strong experience in **modular & clean architectures**
+- 🤝 Worked closely with **UI, backend, and hardware teams**
+- 📊 Optimized SQL queries & backend pipelines for scale
 
 ---
 
-## 📌 My Work & Contributions
-📌 Explore my projects here: **[GitHub Portfolio](https://github.com/Appu-Devloper/)**  
+## 🛠️ Technical Skills
 
-📌 **Ask me about:**  
-✔ Flutter & Dart  
-✔ Python & SQL  
-✔ Backend Development  
-✔ IoT & Embedded Systems  
+### 📱 Mobile Development
+- Flutter, Dart  
+- Android & iOS Deployment  
+- Deep Linking, Push Notifications (FCM)  
+- Responsive UI & Performance Optimization  
+- Play Store & App Store Releases  
 
-📌 **Let's Connect:**  
-📩 **Email:** [appua0126@gmail.com](mailto:appua0126@gmail.com)  
+### ☁️ Backend & Cloud
+- Python, REST APIs, SQL  
+- Firebase (Auth, Firestore, FCM)  
+- AWS (EC2, S3)  
+- Ubuntu Servers  
+- JSON, Postman  
+
+### 🧩 Architecture & State Management
+- Clean Architecture  
+- MVVM, Modularization  
+- Bloc, Provider, Riverpod  
+
+### 🔄 CI/CD & Quality
+- Git & GitHub  
+- GitHub Actions, Codemagic  
+- Testing, Debugging & Profiling  
+- Code Reviews  
+
+### 🌐 IoT & Hardware Integrations
+- WebSockets  
+- RS-485, Modbus  
+- TCP/IP  
+- Serial Data Pipelines  
 
 ---
 
-## 🌍 Connect with Me:
+## 💼 Professional Experience
+
+### 🟢 Senior Application Engineer — Herin Electronics  
+**Dec 2025 – Present**
+
+- Designed complete architecture for **HEIoT Real-Time Dashboard** (https://anvay.herin.in)
+- Replaced polling with **WebSocket-based real-time communication**
+- Reduced latency and server load significantly
+- Strengthened backend data pipelines for consistency & throughput
+- Streamlined deployments and real-time monitoring workflows
+- Collaborated with UI, backend, and hardware teams for stable production delivery
+
+---
+
+### 🔵 Software Development Engineer — Herin Electronics  
+**Jan 2025 – Nov 2025**
+
+- Delivered features across **Flutter & backend** using Dart, Python, and SQL
+- Built real-time IoT visualization modules and data flows
+- Implemented reminders, offline sync, notifications & subscriptions
+- Optimized SQL execution and backend logic for performance
+
+---
+
+### 🟣 Application Engineer — Herin Electronics  
+**Jan 2023 – Jan 2025**
+
+- Built cross-platform Flutter apps (chat, streaming, PDFs, multimedia)
+- Enhanced IoT dashboards, reducing report preparation time by **30%**
+- Published apps with **5,000+ installs**
+- Integrated deep linking & FCM alerts
+- Designed scalable SQL schemas & API workflows
+- Worked on hardware integrations:
+  - RS-485 & Modbus communication  
+  - TCP/IP data acquisition  
+  - Mobile integration with in-house IoT devices  
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 HEIoT Real-Time Dashboard
+- WebSocket-based IoT platform
+- Dynamic charts, alerts, PDF reports
+- Automated email delivery
+- Replaced legacy polling systems
+
+### 🔹 FleetTrack Pro (Android & iOS)
+- Live fleet tracking with hardware integration
+- Subscriptions, payments & notifications
+- Route tracking & real-time updates
+
+### 🔹 Cross-Platform Streaming App
+- Bloc architecture
+- REST APIs & Deep Linking
+- Gesture-based UI
+- FCM notifications
+
+### 🔹 Metrology Calibration Suite
+- Real-time measurement system
+- GUI & CLI support
+- Automated Excel report generation
+
+### 🔹 PDF Extraction & Validation System
+- Python-based pipeline
+- Local **Gemma 3.7B LLM**
+- PDF data extraction, validation & error detection
+
+---
+
+## 🎓 Education
+
+- **MCA** — Karnataka State Open University (2025)  
+  **CGPA:** 8.45  
+
+- **BCA** — Davangere University (2022)  
+  **CGPA:** 8.9  
+
+---
+
+## 📜 Certifications
+
+- Software Engineering — HackerRank  
+- SQL Intermediate — HackerRank  
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/appu-m-19894a258" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/appu-flutter/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://www.hackerrank.com/appua0126" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
   </a>
   <a href="https://www.leetcode.com/appu_m" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools:
-<p align="left">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+## 📊 GitHub Stats
 
----
-
-## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=appu-devloper&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Appu-Devloper&show_icons=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=appu-devloper&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Appu-Devloper&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=appu-devloper&" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appu-Devloper" />
 </p>
 
 ---
 
-## ☕ Support Me:
-<p align="left">
-  <a href="https://www.buymeacoffee.com/Appu-Devloper">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
 
----
+### 🚀 Let’s Build Scalable & Impactful Systems Together
 
-### 🚀 Let's Build Something Amazing Together!
-If you're looking for a **passionate software developer** with expertise in **Flutter, Python, SQL, and IoT**, let's connect! I'm always open to exciting new opportunities and collaborations.  
+If you're looking for a **Senior Flutter & Backend Engineer** with strong **IoT and real-time system expertise**, feel free to reach out.
 
-📩 **Reach me at:** [appua0126@gmail.com](mailto:appua0126@gmail.com)  
-🌎 **GitHub:** [github.com/Appu-Devloper](https://github.com/Appu-Devloper)  
+📧 **Email:** appua0126@gmail.com  
+🌎 **GitHub:** https://github.com/Appu-Devloper  
+🔗 **LinkedIn:** https://www.linkedin.com/in/appu-flutter/
