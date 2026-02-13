@@ -3,7 +3,6 @@
 # Hi there, I'm Appu M 👋
 ### 🚀 Senior Application Engineer | Flutter | Backend & IoT Specialist
 
-<!-- HEADER BUTTONS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/appu-flutter/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
@@ -18,7 +17,6 @@
   </a>
 </p>
 
-<!-- PROFILE VIEWS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Appu-Devloper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <br />
@@ -93,11 +91,11 @@ I bridge the gap between hardware and software. My expertise lies in replacing l
 
 <div align="center">
 
-[![Appu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Appu-Devloper&show_icons=true&theme=radical)](https://github.com/Appu-Devloper)
+[![](https://github-readme-stats.vercel.app/api?username=Appu-Devloper&show_icons=true&theme=radical)](https://github.com/Appu-Devloper)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appu-Devloper&layout=compact&theme=radical)](https://github.com/Appu-Devloper)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Appu-Devloper&layout=compact&theme=radical)](https://github.com/Appu-Devloper)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Appu-Devloper&theme=radical)](https://github.com/Appu-Devloper)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Appu-Devloper&theme=radical)](https://github.com/Appu-Devloper)
 
 </div>
 
