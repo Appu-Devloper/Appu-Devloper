@@ -1,112 +1,112 @@
 <div align="center">
 
 # Hi there, I'm Appu M 👋
-### 🚀 Senior Application Engineer | Flutter | Backend & IoT Specialist
+### 🚀 Senior Application Engineer | Flutter · Embedded Systems · IoT · Real-time Architecture
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/appu-flutter/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/appu-flutter/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:appua0126@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
+  <a href="mailto:appua0126@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://appu-devloper.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
-  </a>
+  <a href="https://appu-devloper.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-2b3137?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Appu-Devloper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<br />
+<img src="https://komarev.com/ghpvc/?username=Appu-Devloper&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I am a results-driven **Senior Application Engineer** with **~3 years of specialized experience** in architecting production-grade mobile applications and scalable IoT ecosystems.
+I bridge the gap between **hardware and software** — designing Flutter applications that communicate directly with embedded devices via RS-485, Modbus RTU/TCP, and MQTT, all the way up to cloud dashboards and real-time analytics.
 
-I bridge the gap between hardware and software. My expertise lies in replacing legacy polling architectures with **WebSocket-based real-time systems**, optimizing **SQL pipelines**, and building **clean architecture Flutter apps**. I currently lead full-stack initiatives involving cross-functional teams (UI, Backend, Hardware).
+At **Herin Electronics** I have been promoted 3× in 3.5 years, growing from application development into full-stack IoT architecture and cross-team technical leadership. Currently exploring **Edge AI and LLM integration** within embedded IoT pipelines.
 
-*   📍 **Location:** India
-*   🔭 **Currently working on:** Advanced IoT Visualization & Real-time Analytics
-*   🌱 **Learning:** Edge AI & Advanced LLM Integration
+- 📍 **Location:** Mysuru, India
+- 🔭 **Currently:** Senior Application Engineer @ Herin Electronics *(3× promoted in 3 years)*
+- 🔌 **Core strength:** Embedded Systems × Flutter × Real-time IoT
+- 🌱 **Exploring:** Edge AI · LLM integration · Industrial SCADA dashboards
+
+---
+
+## 📊 Impact at a Glance
+
+| Metric | Result |
+|:---|:---|
+| Years of hands-on experience | 3.5+ |
+| Combined app installs | 5,000+ |
+| Server load reduction (WebSocket migration) | 40% |
+| Internal reporting time saved | 30% |
+| Promotions at Herin Electronics | 3× in 3 years |
+
+---
+
+## 💼 Experience — Herin Electronics *(Jan 2023 – Present)*
+
+### 🟢 Senior Application Engineer *(Dec 2025 – Present)*
+- Architected full-stack [HEIoT Real-Time Dashboard](http://anvay.herin.in) — Flutter Web + Python + WebSockets
+- Replaced HTTP polling with WebSocket pipeline → **40% server load reduction**, near-zero latency
+- Leading Firmware, Backend, and Mobile team coordination; owning Modbus/TCP → cloud data consistency
+- Designed automated PDF reporting and live alert engine for industrial sensor streams
+
+### 🔵 Software Development Engineer *(Jan 2025 – Nov 2025)*
+- Built real-time chart modules and alert feeds consuming live Modbus sensor data
+- Implemented offline sync and subscription management for mobile fleet applications
+- Contributed RS-485 communication layer improvements between hardware and the app layer
+
+### 🟣 Application Engineer *(Jan 2023 – Dec 2024)*
+- Shipped cross-platform Flutter apps to **5,000+ installs** on Android & iOS
+- Built **Calibration Suite** — Flutter Desktop + Modbus RTU over RS-485, automating metrology certificate generation
+- Developed **FleetTrack Pro** — live GPS tracking, geofencing, payment gateway integration
+- Reduced internal reporting time by **30%** via custom automation tooling
+- First direct hardware-to-app integration: reading sensor registers over serial bus
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-| **Mobile & Frontend** | **Backend & Database** | **IoT & Protocols** | **Tools & DevOps** |
-|:---:|:---:|:---:|:---:|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white) | ![Modbus](https://img.shields.io/badge/Modbus-RS485-orange?style=flat) ![TCP/IP](https://img.shields.io/badge/TCP/IP-Network-blue?style=flat) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-
-</div>
-
----
-
-## 💼 Career Progression
-
-### **Herin Electronics** | *Jan 2023 - Present*
-*Rapidly promoted due to technical leadership and successful delivery of critical IoT infrastructure.*
-
-**🟢 Senior Application Engineer** *(Dec 2025 – Present)*
-*   **Architecture:** Designed the full-stack architecture for [HEIoT Real-Time Dashboard](http://anvay.herin.in).
-*   **Optimization:** Replaced legacy polling with **WebSockets**, reducing server load by 40% and latency to near-zero.
-*   **Leadership:** Coordinating between Firmware, Backend, and Mobile teams to ensure data consistency across protocols (Modbus/TCP).
-
-**🔵 Software Development Engineer** *(Jan 2025 – Nov 2025)*
-*   Built real-time visualization modules using Python & Flutter.
-*   Implemented offline synchronization and subscription management logic.
-
-**🟣 Application Engineer** *(Jan 2023 – Jan 2025)*
-*   Developed and shipped multiple cross-platform apps with **5,000+ combined installs**.
-*   Reduced internal reporting time by **30%** through custom automation tools.
+| Domain | Technologies |
+|:---|:---|
+| **Mobile & Frontend** | Flutter, Dart, Flutter Web, Flutter Desktop, Android, iOS |
+| **Embedded & IoT** | Modbus RTU/TCP, RS-485, Embedded C, MQTT, WebSockets, TCP/IP |
+| **Backend & Data** | Python, SQL, REST APIs, Firebase, AWS |
+| **Tools** | Git, Linux, Postman, Excel automation |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Type | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **[HEIoT Dashboard](http://anvay.herin.in)** | 🖥️ IoT Platform | *Flutter Web, Python, WebSockets* | Real-time charts, automated PDF reporting, and live alert systems. |
-| **FleetTrack Pro** | 📱 Mobile App | *Flutter, Maps API, Hardware* | Live fleet tracking, geofencing, subscription management, and payment gateways. |
-| **PDF Extraction LLM** | 🤖 AI Pipeline | *Python, Gemma 3.7B, Local* | Automated extraction of data from PDFs with validation logic using local LLMs. |
-| **Calibration Suite** | ⚙️ Desktop | *Flutter Desktop, Excel* | Interfaced with metrology hardware to automate certificate generation. |
+| Project | Type | Stack | Outcome |
+|:---|:---|:---|:---|
+| **[HEIoT Dashboard](http://anvay.herin.in)** | IoT Platform | Flutter Web, Python, WebSockets | Real-time charts, PDF reports, live alerts — live in production |
+| **Calibration Suite** | Embedded / Desktop | Flutter Desktop, Modbus RTU, RS-485 | Direct hardware register reads; automated metrology certificates |
+| **FleetTrack Pro** | Mobile App | Flutter, Maps API | Live GPS, geofencing, subscription & payment gateway |
+| **PDF Extraction LLM** | AI Pipeline | Python, Gemma 3.7B, local inference | Offline PDF data extraction with validation; no cloud dependency |
+
+---
+
+## 🔭 What I'm Exploring
+
+- **Edge AI** — running lightweight models on embedded hardware; inference without cloud round-trips
+- **LLM integration** — embedding local LLMs into IoT pipelines for anomaly detection and report generation
+- **Real-time systems** — MQTT QoS tuning, WebSocket framing, low-latency sensor ingestion
+- **Industrial dashboards** — SCADA-style visualization for Modbus devices using Flutter Web + canvas rendering
 
 ---
 
 ## 🎓 Education & Certifications
 
-*   🎓 **MCA** | Karnataka State Open University (2025) | **CGPA: 8.45**
-*   🎓 **BCA** | Davangere University (2022) | **CGPA: 8.9**
-*   📜 **Certifications:** HackerRank (Software Engineering, SQL Intermediate)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![](https://github-readme-stats.vercel.app/api?username=Appu-Devloper&show_icons=true&theme=radical)](https://github.com/Appu-Devloper)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Appu-Devloper&layout=compact&theme=radical)](https://github.com/Appu-Devloper)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Appu-Devloper&theme=radical)](https://github.com/Appu-Devloper)
-
-</div>
+- 🎓 **MCA** | Karnataka State Open University (2025) | **CGPA: 8.45**
+- 🎓 **BCA** | Davangere University (2022) | **CGPA: 8.9**
+- 📜 **HackerRank:** Software Engineering · SQL Intermediate
 
 ---
 
 <div align="center">
 
-### Let’s Build Something Amazing!
+### Open to roles in Embedded + Flutter · IoT Systems · Real-time Architecture
 
-<a href="https://www.linkedin.com/in/appu-flutter/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/appu-flutter/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
