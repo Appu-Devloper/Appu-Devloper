@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # Hi, I'm Appu M 👋  
@@ -194,4 +194,4 @@ Currently building AI-assisted IoT and automation workflows.
 </a>
 
 </div>
-```
+
